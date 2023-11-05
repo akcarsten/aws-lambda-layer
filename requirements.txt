@@ -1,0 +1,6 @@
+bitfinex-tencars==0.0.3
+kaggle==1.5.3
+tweepy==4.14.0
+numpy
+pandas
+requests
