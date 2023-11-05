@@ -6,7 +6,8 @@ to be used as a Lambda layer on AWS.
 
 Requiremetns are a local Python distribution with Pip and an instalation of [7zip](https://www.7-zip.org/)
 
-**Note:** As mentioned the main part is the _.bat_ file so usage in Windows
+**Note:** As mentioned the main part is the _.bat_ file so usage in Windows.
+
 ---
 
 ## Usage
