@@ -4,5 +4,5 @@ tweepy==4.14.0
 numpy
 pandas
 requests
-openai
-pydantic_core
+openai==0.28
+pydantic_core; python_version>"3.10"
