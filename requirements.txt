@@ -4,3 +4,5 @@ tweepy==4.14.0
 numpy
 pandas
 requests
+openai
+pydantic_core

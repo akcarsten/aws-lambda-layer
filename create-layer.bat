@@ -16,6 +16,9 @@ if exist %layer_dir% (
 mkdir %layer_dir%
 
 pip3 install -r requirements.txt -t %layer_dir%
-7z a -tzip lambda_layer.zip .
+
+7z a -tzip lambda_layer.zip ./%layer_dir%
 
 rmdir /s /q %layer_dir%
+
+pause
